@@ -234,4 +234,4 @@ All plots are saved to `results/plots/final_plots`:
 ### GSoC 2026 Status (CERN-ATLAS)
 
 - [x] Qualified GSoC 2026 Phase 1 (CERN-ATLAS)
-~~Proposal under review (Google Summer of Code 2026)~~ [rejected]
+- ~~Proposal under review (Google Summer of Code 2026)~~ [rejected]
